@@ -20,6 +20,8 @@
 hs_err_pid*
 
 ### IntelliJ IDEA ###
+!**/src/main/**/out/
+!**/src/test/**/out/
 .idea
 out
 *.iws
